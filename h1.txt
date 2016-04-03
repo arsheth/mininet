@@ -1,0 +1,6 @@
+5902
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         150.100.1.254   0.0.0.0         UG    0      0        0 h1-eth0
+150.100.1.0     0.0.0.0         255.255.255.0   U     0      0        0 h1-eth0
+150.100.2.0     150.100.1.254   255.255.255.0   UG    0      0        0 h1-eth0
